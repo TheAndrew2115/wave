@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3215308f-7b29-4b74-b107-e27c81c09d1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/wave/main/BasicEnemy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/wave/main/HUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/wave/main/Trail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/com/wave/main/BasicEnemy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/com/wave/main/BasicEnemy.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/game/com/wave/main/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/com/wave/main/Game.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/com/wave/main/GameObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/com/wave/main/GameObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/game/com/wave/main/HUD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/com/wave/main/HUD.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/game/com/wave/main/ID.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/com/wave/main/ID.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/com/wave/main/KeyInput.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/com/wave/main/KeyInput.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/game/com/wave/main/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/com/wave/main/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wave/main/BasicEnemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wave/main/BasicEnemy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/wave/main/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wave/main/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wave/main/GameObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wave/main/GameObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wave/main/HUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wave/main/HUD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/wave/main/ID.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wave/main/ID.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wave/main/KeyInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wave/main/KeyInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/wave/main/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wave/main/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586033940616</updated>
-      <workItem from="1586033946909" duration="8675000" />
+      <workItem from="1586033946909" duration="10275000" />
     </task>
     <servers />
   </component>
@@ -86,30 +89,30 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="256" y="205" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1586034724030" />
-    <state x="898" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1586050478390">
+    <state x="898" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1586053037236">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="898" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1586050478390" />
+    <state x="898" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1586053037236" />
     <state x="529" y="334" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586034721223">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="529" y="334" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1586034721223" />
-    <state width="668" height="245" key="GridCell.Tab.0.bottom" timestamp="1586052070395">
+    <state width="668" height="245" key="GridCell.Tab.0.bottom" timestamp="1586053680058">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="668" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586052070395" />
-    <state width="668" height="245" key="GridCell.Tab.0.center" timestamp="1586052070394">
+    <state width="668" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586053680058" />
+    <state width="668" height="245" key="GridCell.Tab.0.center" timestamp="1586053680057">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="668" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586052070394" />
-    <state width="668" height="245" key="GridCell.Tab.0.left" timestamp="1586052070394">
+    <state width="668" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586053680057" />
+    <state width="668" height="245" key="GridCell.Tab.0.left" timestamp="1586053680057">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="668" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586052070394" />
-    <state width="668" height="245" key="GridCell.Tab.0.right" timestamp="1586052070395">
+    <state width="668" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586053680057" />
+    <state width="668" height="245" key="GridCell.Tab.0.right" timestamp="1586053680057">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="668" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586052070395" />
+    <state width="668" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586053680057" />
     <state x="756" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1586033947707">
       <screen x="0" y="23" width="1440" height="826" />
     </state>

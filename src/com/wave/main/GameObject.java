@@ -16,6 +16,7 @@ public abstract class GameObject {
 
     public abstract void tick();
     public abstract void render(Graphics g);
+    public abstract Rectangle getBounds(); // take advantage of the intersect() method
 
     public void setX(int x) {
         this.x = x;
