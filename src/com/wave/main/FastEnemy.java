@@ -28,12 +28,12 @@ public class FastEnemy extends GameObject {
             xspeed *= -1;
         }
 
-        handler.addObject(new Trail(x, y, ID.Trail, Color.red, 16, 16, (float) 0.04, handler));
+        handler.addObject(new Trail(x, y, ID.Trail, Color.magenta, 16, 16, (float) 0.04, handler));
     }
 
     @Override
     public void render(Graphics g) {
-        g.setColor(Color.ORANGE);
+        g.setColor(Color.magenta);
         g.fillRect(x, y, 16,16);
     }
 
