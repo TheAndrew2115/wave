@@ -7,6 +7,7 @@ import java.util.Random;
 public class Game extends Canvas implements Runnable {
 
     public static final int WIDTH = 640, HEIGHT = WIDTH / 12 * 9;
+    // ^^ Not my idea, saw on a tutorial that this is a good ratio
 
     private Thread thread;
     private boolean running = false;
@@ -15,14 +16,14 @@ public class Game extends Canvas implements Runnable {
     private Handler handler;
 
     public Game() {
+        handler = new Handler();
+        this.addKeyListener(new KeyInput(handler));
+
         new Window(WIDTH, HEIGHT, "Building a Game", this);
 
-        handler = new Handler();
         r = new Random();
 
-        for (int i = 0; i < 50; i++) {
-            handler.addObject(new Player(r.nextInt(WIDTH),r.nextInt(HEIGHT), ID.Player));
-        }
+        handler.addObject(new Player(WIDTH/2-32, HEIGHT/2-32, ID.Player));
 
 
     }
