@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3215308f-7b29-4b74-b107-e27c81c09d1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/wave/main/Trail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/com/wave/main/BasicEnemy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/com/wave/main/BasicEnemy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/com/wave/main/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/com/wave/main/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/com/wave/main/GameObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/com/wave/main/GameObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/com/wave/main/HUD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/com/wave/main/HUD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/com/wave/main/ID.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/com/wave/main/ID.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/com/wave/main/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/com/wave/main/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wave/main/BasicEnemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wave/main/BasicEnemy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wave/main/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wave/main/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wave/main/GameObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wave/main/GameObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/wave/main/HUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wave/main/HUD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wave/main/ID.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wave/main/ID.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wave/main/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wave/main/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586033940616</updated>
-      <workItem from="1586033946909" duration="10275000" />
+      <workItem from="1586033946909" duration="10593000" />
     </task>
     <servers />
   </component>
