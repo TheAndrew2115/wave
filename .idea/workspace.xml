@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3215308f-7b29-4b74-b107-e27c81c09d1f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/com/wave/main/ID.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/com/wave/main/ID.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/com/wave/main/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/com/wave/main/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/game/com/wave/main/Spawn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/game/com/wave/main/Spawn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wave/main/FastEnemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wave/main/FastEnemy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wave/main/Spawn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wave/main/Spawn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586033940616</updated>
-      <workItem from="1586033946909" duration="12756000" />
+      <workItem from="1586033946909" duration="14066000" />
     </task>
     <servers />
   </component>
